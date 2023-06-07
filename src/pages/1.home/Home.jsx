@@ -10,7 +10,7 @@ const Home = () => {
     >
 
       <h1 className="text-white text-center text-3xl p-4">HOMEPAGE</h1>
-      <p className="glass-effect text-white mx-5 p-4 pb-44">
+      <p className="glass-effect text-white ml-8 mt-16 mr-80 p-4 pb-44">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. In, quidem
         voluptate ipsum quas reiciendis facilis officiis exercitationem nam
         atque saepe quaerat fugiat, unde dignissimos cum rerum, culpa doloremque
