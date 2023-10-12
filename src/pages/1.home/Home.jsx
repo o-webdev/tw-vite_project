@@ -2,15 +2,11 @@ const Home = () => {
   return (
     <div>
     <div className="min-h-screen"
-    style={{
-      backgroundImage:'url(src/assets/philo1.jpg)',
-      backgroundSize:'cover',
-      backgroundPosition:'center',
-    }}
+    
     >
 
-      <h1 className="text-white text-center text-3xl p-4">HOMEPAGE</h1>
-      <p className="glass-effect text-white ml-8 mt-16 mr-80 p-4 pb-44">
+      <h1 className=" text-center text-3xl p-4">HOMEPAGE</h1>
+      <p className="ml-8 mt-16 mr-80 p-4 pb-44">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. In, quidem
         voluptate ipsum quas reiciendis facilis officiis exercitationem nam
         atque saepe quaerat fugiat, unde dignissimos cum rerum, culpa doloremque
